@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aditya-nt.github.io/csb-w10ux/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://aditya-nt.github.io/csb-w10ux/static/js/main.42ee3aa9.chunk.js",
+    "main.js.map": "https://aditya-nt.github.io/csb-w10ux/static/js/main.42ee3aa9.chunk.js.map",
+    "runtime-main.js": "https://aditya-nt.github.io/csb-w10ux/static/js/runtime-main.322201f1.js",
+    "runtime-main.js.map": "https://aditya-nt.github.io/csb-w10ux/static/js/runtime-main.322201f1.js.map",
+    "static/js/2.8c0b6596.chunk.js": "https://aditya-nt.github.io/csb-w10ux/static/js/2.8c0b6596.chunk.js",
+    "static/js/2.8c0b6596.chunk.js.map": "https://aditya-nt.github.io/csb-w10ux/static/js/2.8c0b6596.chunk.js.map",
+    "index.html": "https://aditya-nt.github.io/csb-w10ux/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://aditya-nt.github.io/csb-w10ux/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.8c0b6596.chunk.js.LICENSE.txt": "https://aditya-nt.github.io/csb-w10ux/static/js/2.8c0b6596.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.322201f1.js",
+    "static/js/2.8c0b6596.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.42ee3aa9.chunk.js"
+  ]
+}
